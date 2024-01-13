@@ -1,0 +1,7 @@
+node_modules
+target
+.idea
+.git
+.editorconfig
+package.json
+package-lock.json
