@@ -1,0 +1,5 @@
+== Reproducer config list + comma separated profiles
+Reproducer of bigger project issue where comma separated profiles does not work
+with list.
+
+Tests to validate the current problem.
